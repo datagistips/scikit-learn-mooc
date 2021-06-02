@@ -1,5 +1,5 @@
 <!-- #region -->
-# 1. The predictive modeling pipeline
+# 1 The predictive modeling pipeline
 
 ## Tabular data exploration
 
@@ -27,7 +27,7 @@
 - [Exercise 02 (solution)](./notebooks/M1-03_categorical_pipeline_sol_02.ipynb)
 - [Wrap Up Quizz](./notebooks/M1-wrapup-predictive_modeling_pipeline_questions.ipynb)
 
-# 2. Selecting the best model
+# 2 Selecting the best model
 - [Overfitting and underfitting](./notebooks/M2-cross_validation_train_test.ipynb)
 - [Overfit generalization underfit](./notebooks/M2-cross_validation_validation_curve.ipynb)
 - [Effect of the sample size in cross validation](./notebooks/M2-cross_validation_learning_curve.ipynb)
@@ -35,7 +35,7 @@
 - [Exercise 01 (solution)](./notebooks/M2-cross_validation_sol_01.ipynb)
 - [Wrap Up Quizz](./notebooks/M2-wrapup-overfit_questions.ipynb)
 
-# 3. Hyperparameter tuning
+# 3 Hyperparameter tuning
 
 ## Manual tuning
 
@@ -54,7 +54,7 @@
 - [Exercise 02 (personal solution)](./notebooks/M3-Automated-Tuning-Quizz.ipynb)
 - [Wrap up quizz](./notebooks/M3-wrap_up_quizz.ipynb)
 
-# 4. Linear models
+# 4 Linear models
 ## Linear regression
 - [Linear regression without scikit-learn](./notebooks/M4-linear_regression_without_sklearn.ipynb)
 - [Exercise 1](./notebooks/M4-linear_models_ex_01.ipynb)
