@@ -75,7 +75,19 @@
 
 ## Linear model for classification
 - [Linear model for classification](./notebooks/M4-logistic_regression.ipynb)
-- [Exercise 5](./notebooks/M4-linear_models_ex_05.ipynb)
-- [Exercise 5 (solution)](./notebooks/M4-linear_models_sol_05.ipynb)
+- [Exercise 5](./notebooks/M4-linear_models_ex_05.ipynb) | [solution](./notebooks/M4-linear_models_sol_05.ipynb)
 - [Beyond linear separation in classification](./notebooks/M4-logistic_regression_non_linear.ipynb)
+
+## Wrap up
+- [Wrap-up](./notebooks/M4-wrap-up.ipynb)
+- [Wrap-up2](./notebooks/M4-wrap-up2.ipynb)
+
+# 5 Decision tree models
+- [Build a classification decision tree](notebooks/M5-trees_classification.ipynb)
+- [Exercise](notebooks/M5-trees_ex_01.ipynb) | [Solution](notebooks/M5-trees_sol_01.ipynb)
+- [Decision tree for regression](notebooks/M5-trees_regression.ipynb)
+- [Exercise](notebooks/M5-trees_ex_02.ipynb) | [Solution](notebooks/M5-trees_sol_02.ipynb)
+- [xxx](notebooks/M5-trees_dataset.ipynb)
+- [xxx](notebooks/M5-trees_hyperparameters.ipynb)
+
 <!-- #endregion -->
